@@ -1,0 +1,9 @@
+export const REGISTER_SUCCESS = "REGISTER_SUCCESS";
+export const REGISTER_FAIL = "REGISTER_FAIL";
+export const EVENT_ERROR = "EVENT_ERROR";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAIL = "LOGIN_FAIL";
+export const CLEAR_ERRORS = "CLEAR_ERRORS";
+export const GET_EVENTS = "GET_EVENTS";
+export const UPDATE_LIKE = "UPDATE_LIKE";
+export const ADD_EVENT="ADD_EVENT";
